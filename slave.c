@@ -77,6 +77,8 @@ void __interrupt() isr (void){
      PORTA = contador;
     } 
     
+    
+    
 }
 
 
